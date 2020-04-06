@@ -1,6 +1,7 @@
 # Gianetto Daniel
 # Tutorial de Git + GitHub
-Programación en C ,Clase 03  funciones
+
+Programación en C ,Clase 03  funciones y Github
 
   -1 crear una carpeta e ingresar a la carpeta
   
@@ -14,15 +15,15 @@ Programación en C ,Clase 03  funciones
   
   -5 agrego cambios y archivos
 
-  (git add . ) 
+      (git add . ) 
   
   -6 hago el commit ( tomo una instantanea del momento)
   
-  (git commit -m "mensaje que habla del commit ")
+      (git commit -m "mensaje que habla del commit ")
   
   -7 subir al repositorio WEB
 
-  (git push)
+      (git push)
 
 
 
